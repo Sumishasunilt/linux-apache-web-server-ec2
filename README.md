@@ -27,9 +27,7 @@ This project demonstrates the setup and deployment of an Apache web server on an
 
 ## Architecture
 
-[Linux-Based Web Server Deployment on AWS EC2](https://github.com/Sumishasunilt/linux-apache-web-server-ec2/blob/main/architecture.png)
-
-![Linux-Based Web Server Deployment on AWS EC2](architecture.png)
+![Linux-Based Web Server Deployment on AWS EC2](./architecture.png)
 
 ## Project Flow
 
